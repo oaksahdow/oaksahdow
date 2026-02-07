@@ -4,7 +4,6 @@
 ###
 
 <div align="center">
-  <!-- TECNOLOGIAS -->
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" title="JavaScript" />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS" title="AWS" />
@@ -49,30 +48,21 @@
   <a href="https://instagram.com/SEU-INSTAGRAM-AQUI" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
   </a>
-  <img width="10" />
-  <a href="https://github.com/oaksahdow" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
-  </a>
-  <img width="10" />
-  <a href="mailto:kevensantoscarvalho3@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-  </a>
 </div>
 
 <br><br>
 
-<!-- ANIMAÇÃO DA COBRA -->
+<!-- 🎮 PAC-MAN ANIMATION -->
 <div align="center">
-  <h3>📊 Minhas Contribuições</h3>
+  <h3>🎮 Minhas Contribuições</h3>
   
-  <!-- Snake Animation -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oaksahdow/oaksahdow/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oaksahdow/oaksahdow/output/snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oaksahdow/oaksahdow/output/snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oaksahdow/oaksahdow/output/pacman-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oaksahdow/oaksahdow/output/pacman.svg">
+    <img alt="Pac-Man animation" src="https://raw.githubusercontent.com/oaksahdow/oaksahdow/output/pacman.svg" width="100%" />
   </picture>
   
-  <p><i>Essa cobra come minhas contribuições... Não se preocupe, é amigável! 🐍</i></p>
+  <p><i>Pac-Man comendo minhas contribuições diárias! 👾</i></p>
 </div>
 
 <br>
