@@ -52,9 +52,9 @@
 
 <br><br>
 
-<!-- 🎮 PAC-MAN ANIMATION -->
+<!--  PAC-MAN ANIMATION -->
 <div align="center">
-  <h3>🎮 Minhas Contribuições</h3>
+  <h3> Minhas Contribuições</h3>
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oaksahdow/oaksahdow/output/pacman-dark.svg">
@@ -62,7 +62,7 @@
     <img alt="Pac-Man animation" src="https://raw.githubusercontent.com/oaksahdow/oaksahdow/output/pacman.svg" width="100%" />
   </picture>
   
-  <p><i>Pac-Man comendo minhas contribuições diárias! 👾</i></p>
+  <p><i>Pac-Man comendo minhas contribuições diárias! </i></p>
 </div>
 
 <br>
