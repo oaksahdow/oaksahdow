@@ -1,4 +1,4 @@
-<h1 align="center">Ei, tudo bem? 👋</h1>
+<h1 align="center">Ei, tudo bem? </h1>
 <h3 align="center">Eu sou Keven Carvalho • Júnior Desenvolvedor • São Paulo, Brasil</h3>
 
 ###
