@@ -48,13 +48,11 @@
 
 ###
 
-<br clear="both">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzak/maurodesouzak/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzak/maurodesouzak/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzak/maurodesouzak/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kevencarvalho&theme=github-compact&不想要缓存">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevencarvalho&theme=github&不想要缓存" alt="Meu gráfico de contribuições no GitHub">
 </picture>
 
 
-###
+<br clear="both">
+
